@@ -15,8 +15,18 @@
 			(get it? I.T.) <br>
 			I hope to use the new skills I will gain here to start my new career solving problems… <br>
 			most of them my own. </p>
-		<img src="images/danielle.img.jpg" alt="image of me"/>
+		<img src="images/danielle.img.jpg" alt="image of me" height="250" width="250"/>
 
-		<p> I graduated in 2015 from University of New Mexico with my Bachlor's of Science in Biochemisty.</p>
+		<p> I graduated in 2015 from University of New Mexico with my Bachelor's of Science in Biochemisty.
+			<br>Since Graduation I have been taking time to enjoy the things I love. </p>
+<p>
+			Here is a list of things I love
+		<ul>
+			<li>Movies</li>
+			<li>Sleeping</li>
+			<li>Jogging</li>
+			<li>Traveling</li>
+		</ul>
+		</p>
 	</body>
 </html>
