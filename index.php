@@ -29,7 +29,6 @@
 			<li>Traveling</li>
 			<li>Gaming</li>
 		</ul>
-
 		</p>
 	</body>
 </html>
