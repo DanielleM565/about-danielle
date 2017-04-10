@@ -28,7 +28,6 @@
 			<li>Jogging</li>
 			<li>Traveling</li>
 			<li>Gaming</li>
-			<li>Gaming</li>
 		</ul>
 
 		</p>
